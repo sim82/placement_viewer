@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/225/forester/java/src/org/forester/go
+END
+BasicGoTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/106/forester/java/src/org/forester/go/BasicGoTerm.java
+END
+TestGo.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/106/forester/java/src/org/forester/go/TestGo.java
+END
+GoNameSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/106/forester/java/src/org/forester/go/GoNameSpace.java
+END
+GoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/106/forester/java/src/org/forester/go/GoId.java
+END
+GoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/106/forester/java/src/org/forester/go/GoUtils.java
+END
+GoRelationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/142/forester/java/src/org/forester/go/GoRelationship.java
+END
+PfamToGoMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/106/forester/java/src/org/forester/go/PfamToGoMapping.java
+END
+BasicGoRelationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/142/forester/java/src/org/forester/go/BasicGoRelationship.java
+END
+PfamToGoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/forester/java/src/org/forester/go/PfamToGoParser.java
+END
+GoXRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/220/forester/java/src/org/forester/go/GoXRef.java
+END
+GoSubset.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/142/forester/java/src/org/forester/go/GoSubset.java
+END
+Mapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/106/forester/java/src/org/forester/go/Mapping.java
+END
+BasicGoXRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/220/forester/java/src/org/forester/go/BasicGoXRef.java
+END
+OBOparser.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/106/forester/java/src/org/forester/go/OBOparser.java
+END
+GoTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/106/forester/java/src/org/forester/go/GoTerm.java
+END
+BasicGoSubset.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/142/forester/java/src/org/forester/go/BasicGoSubset.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/290/forester/java/src/org/forester/tools
+END
+TreeSplitMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/106/forester/java/src/org/forester/tools/TreeSplitMatrix.java
+END
+ConfidenceAssessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/106/forester/java/src/org/forester/tools/ConfidenceAssessor.java
+END
+PhylogenyDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/290/forester/java/src/org/forester/tools/PhylogenyDecorator.java
+END
+SupportCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/106/forester/java/src/org/forester/tools/SupportCount.java
+END

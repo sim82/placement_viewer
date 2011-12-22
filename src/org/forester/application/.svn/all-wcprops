@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/339/forester/java/src/org/forester/application
+END
+sdi_r.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/106/forester/java/src/org/forester/application/sdi_r.java
+END
+strip.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/279/forester/java/src/org/forester/application/strip.java
+END
+printAllSpecies.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/279/forester/java/src/org/forester/application/printAllSpecies.java
+END
+pfamacc2go.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/106/forester/java/src/org/forester/application/pfamacc2go.java
+END
+phyloxml_converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/279/forester/java/src/org/forester/application/phyloxml_converter.java
+END
+surf_paup.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/279/forester/java/src/org/forester/application/surf_paup.java
+END
+ta.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/279/forester/java/src/org/forester/application/ta.java
+END
+nj.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/106/forester/java/src/org/forester/application/nj.java
+END
+sdix.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/106/forester/java/src/org/forester/application/sdix.java
+END
+pfam_go.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/227/forester/java/src/org/forester/application/pfam_go.java
+END
+goac.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/106/forester/java/src/org/forester/application/goac.java
+END
+obo_tool.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/106/forester/java/src/org/forester/application/obo_tool.java
+END
+sdi_dir.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/106/forester/java/src/org/forester/application/sdi_dir.java
+END
+nhx_too.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/279/forester/java/src/org/forester/application/nhx_too.java
+END
+sdi.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/106/forester/java/src/org/forester/application/sdi.java
+END
+support_transfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/339/forester/java/src/org/forester/application/support_transfer.java
+END
+surfacing.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/337/forester/java/src/org/forester/application/surfacing.java
+END
+meta_ontologizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/forester/java/src/org/forester/application/meta_ontologizer.java
+END
+decorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/279/forester/java/src/org/forester/application/decorator.java
+END
+count_support.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/279/forester/java/src/org/forester/application/count_support.java
+END
+pfam2go_extractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/106/forester/java/src/org/forester/application/pfam2go_extractor.java
+END
+surfacing_hmmpfam.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/336/forester/java/src/org/forester/application/surfacing_hmmpfam.java
+END
+support_statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/279/forester/java/src/org/forester/application/support_statistics.java
+END
+rio.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/106/forester/java/src/org/forester/application/rio.java
+END
+pfamacc2pfamid.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/106/forester/java/src/org/forester/application/pfamacc2pfamid.java
+END
+pccx.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/279/forester/java/src/org/forester/application/pccx.java
+END
+confadd.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/279/forester/java/src/org/forester/application/confadd.java
+END
+printSameOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/279/forester/java/src/org/forester/application/printSameOrder.java
+END

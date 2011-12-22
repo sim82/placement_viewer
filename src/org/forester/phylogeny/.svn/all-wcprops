@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/345/forester/java/src/org/forester/phylogeny
+END
+PhylogenyMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/345/forester/java/src/org/forester/phylogeny/PhylogenyMethods.java
+END
+PhylogenyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/344/forester/java/src/org/forester/phylogeny/PhylogenyNode.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/Edge.java
+END
+PhylogenyBranch.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/PhylogenyBranch.java
+END
+PhylogenyNodeI.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/344/forester/java/src/org/forester/phylogeny/PhylogenyNodeI.java
+END
+Phylogeny.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/345/forester/java/src/org/forester/phylogeny/Phylogeny.java
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/339/forester/java/src/org/forester/phylogeny/data
+END
+Uri.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/Uri.java
+END
+SequenceRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/SequenceRelation.java
+END
+PhylogenyDataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/339/forester/java/src/org/forester/phylogeny/data/PhylogenyDataUtil.java
+END
+NodeVisualization.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/225/forester/java/src/org/forester/phylogeny/data/NodeVisualization.java
+END
+Accession.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/331/forester/java/src/org/forester/phylogeny/data/Accession.java
+END
+PhylogenyData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/PhylogenyData.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/Sequence.java
+END
+ProteinDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/ProteinDomain.java
+END
+DomainArchitecture.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/DomainArchitecture.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/Annotation.java
+END
+Date.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/Date.java
+END
+Taxonomy.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/270/forester/java/src/org/forester/phylogeny/data/Taxonomy.java
+END
+Distribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/Distribution.java
+END
+NodeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/267/forester/java/src/org/forester/phylogeny/data/NodeData.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/Event.java
+END
+Identifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/331/forester/java/src/org/forester/phylogeny/data/Identifier.java
+END
+BinaryCharacters.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/BinaryCharacters.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/333/forester/java/src/org/forester/phylogeny/data/Property.java
+END
+BranchData.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/BranchData.java
+END
+Polygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/Polygon.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/forester/java/src/org/forester/phylogeny/data/Point.java
+END
+PropertiesMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/PropertiesMap.java
+END
+BranchColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8/forester/java/src/org/forester/phylogeny/data/BranchColor.java
+END
+Confidence.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/339/forester/java/src/org/forester/phylogeny/data/Confidence.java
+END
+BranchWidth.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/BranchWidth.java
+END
+MultipleUris.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/MultipleUris.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/106/forester/java/src/org/forester/phylogeny/data/Reference.java
+END

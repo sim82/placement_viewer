@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/345/forester/java/src/org/forester/archaeopteryx
+END
+TextFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/TextFrame.java
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/345/forester/java/src/org/forester/archaeopteryx/MainFrame.java
+END
+NodeFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/NodeFrame.java
+END
+ControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/341/forester/java/src/org/forester/archaeopteryx/ControlPanel.java
+END
+TreeFontSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/TreeFontSet.java
+END
+PdfExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/PdfExporter.java
+END
+MainPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/MainPanel.java
+END
+MainFrameApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/341/forester/java/src/org/forester/archaeopteryx/MainFrameApplet.java
+END
+UrlTreeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/UrlTreeReader.java
+END
+NodePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/339/forester/java/src/org/forester/archaeopteryx/NodePanel.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/341/forester/java/src/org/forester/archaeopteryx/Configuration.java
+END
+TreeColorSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/TreeColorSet.java
+END
+AptxUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/307/forester/java/src/org/forester/archaeopteryx/AptxUtil.java
+END
+NodeEditPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/339/forester/java/src/org/forester/archaeopteryx/NodeEditPanel.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/345/forester/java/src/org/forester/archaeopteryx/Constants.java
+END
+Archaeopteryx.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/Archaeopteryx.java
+END
+ArchaeopteryxA.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/ArchaeopteryxA.java
+END
+TreePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/341/forester/java/src/org/forester/archaeopteryx/TreePanel.java
+END
+MainFrameApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/345/forester/java/src/org/forester/archaeopteryx/MainFrameApplication.java
+END
+ArchaeopteryxE.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/345/forester/java/src/org/forester/archaeopteryx/ArchaeopteryxE.java
+END
+Printer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/Printer.java
+END
+ColorSchemeChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/ColorSchemeChooser.java
+END
+FontChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/FontChooser.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/345/forester/java/src/org/forester/archaeopteryx/Options.java
+END
+WebLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/WebLink.java
+END
+MainPanelApplets.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/MainPanelApplets.java
+END
+MouseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/MouseListener.java
+END

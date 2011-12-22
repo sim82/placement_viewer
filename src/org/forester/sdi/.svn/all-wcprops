@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/279/forester/java/src/org/forester/sdi
+END
+SDI.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/SDI.java
+END
+SDIR.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/SDIR.java
+END
+DistanceCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/279/forester/java/src/org/forester/sdi/DistanceCalculator.java
+END
+TestGSDI.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/TestGSDI.java
+END
+GSDI.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/GSDI.java
+END
+SDIse.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/SDIse.java
+END
+SDIx.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/SDIx.java
+END
+RIOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/RIOn.java
+END
+ORcount.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/279/forester/java/src/org/forester/sdi/ORcount.java
+END
+RIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/RIO.java
+END
+TaxonomyAssigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/TaxonomyAssigner.java
+END
+Tuplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/106/forester/java/src/org/forester/sdi/Tuplet.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/339/forester/java/src/org/forester/io/parsers/phyloxml
+END
+PhyloXmlMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/339/forester/java/src/org/forester/io/parsers/phyloxml/PhyloXmlMapping.java
+END
+PhyloXmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/phyloxml/PhyloXmlParser.java
+END
+PhyloXmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/339/forester/java/src/org/forester/io/parsers/phyloxml/PhyloXmlHandler.java
+END
+PhyloXmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/287/forester/java/src/org/forester/io/parsers/phyloxml/PhyloXmlUtil.java
+END
+XmlElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/phyloxml/XmlElement.java
+END
+PhyloXmlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/phyloxml/PhyloXmlException.java
+END
+PhyloXmlDataFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/phyloxml/PhyloXmlDataFormatException.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/106/forester/java/src/org/forester/msa
+END
+Msa.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/106/forester/java/src/org/forester/msa/Msa.java
+END
+MsaTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/106/forester/java/src/org/forester/msa/MsaTools.java
+END
+BasicMsa.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/106/forester/java/src/org/forester/msa/BasicMsa.java
+END
+MsaFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/106/forester/java/src/org/forester/msa/MsaFormatException.java
+END
+MafftOLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/106/forester/java/src/org/forester/msa/MafftOLD.java
+END
+ResampleableMsa.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/106/forester/java/src/org/forester/msa/ResampleableMsa.java
+END
+MsaInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/106/forester/java/src/org/forester/msa/MsaInferrer.java
+END
+Mafft.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/106/forester/java/src/org/forester/msa/Mafft.java
+END

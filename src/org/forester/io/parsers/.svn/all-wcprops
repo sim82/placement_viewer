@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/345/forester/java/src/org/forester/io/parsers
+END
+HmmPfamOutputParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/HmmPfamOutputParser.java
+END
+SymmetricalDistanceMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/SymmetricalDistanceMatrixParser.java
+END
+HmmscanPerDomainTableParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/325/forester/java/src/org/forester/io/parsers/HmmscanPerDomainTableParser.java
+END
+FastaParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/290/forester/java/src/org/forester/io/parsers/FastaParser.java
+END
+PhylogenyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/PhylogenyParser.java
+END
+GeneralMsaParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/GeneralMsaParser.java
+END

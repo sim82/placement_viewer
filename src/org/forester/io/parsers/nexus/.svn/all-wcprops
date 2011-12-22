@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/279/forester/java/src/org/forester/io/parsers/nexus
+END
+NexusCharactersParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/nexus/NexusCharactersParser.java
+END
+NexusConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/nexus/NexusConstants.java
+END
+PaupLogParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/nexus/PaupLogParser.java
+END
+NexusPhylogeniesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/279/forester/java/src/org/forester/io/parsers/nexus/NexusPhylogeniesParser.java
+END
+NexusFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/nexus/NexusFormatException.java
+END
+NexusBinaryStatesMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8/forester/java/src/org/forester/io/parsers/nexus/NexusBinaryStatesMatrixParser.java
+END

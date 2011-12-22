@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/345/forester/java/src/org/forester/io/parsers/nhx
+END
+NHXFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/nhx/NHXFormatException.java
+END
+NHXParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/345/forester/java/src/org/forester/io/parsers/nhx/NHXParser.java
+END
+NHXtags.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/nhx/NHXtags.java
+END

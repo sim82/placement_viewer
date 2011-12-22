@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/tools
+END
+GoAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/159/forester/java/src/org/forester/archaeopteryx/tools/GoAnnotation.java
+END
+Blast.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/159/forester/java/src/org/forester/archaeopteryx/tools/Blast.java
+END
+SequenceDataRetriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/169/forester/java/src/org/forester/archaeopteryx/tools/SequenceDataRetriver.java
+END
+PhylogeneticInferenceOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/159/forester/java/src/org/forester/archaeopteryx/tools/PhylogeneticInferenceOptions.java
+END
+PhylogeneticInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/tools/PhylogeneticInferrer.java
+END
+AncestralTaxonomyInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/264/forester/java/src/org/forester/archaeopteryx/tools/AncestralTaxonomyInferrer.java
+END
+ImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/tools/ImageLoader.java
+END
+PhyloInferenceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/290/forester/java/src/org/forester/archaeopteryx/tools/PhyloInferenceDialog.java
+END
+TaxonomyDataObtainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/264/forester/java/src/org/forester/archaeopteryx/tools/TaxonomyDataObtainer.java
+END

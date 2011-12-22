@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/tol
+END
+TolParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/tol/TolParser.java
+END
+TolXmlMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/forester/java/src/org/forester/io/parsers/tol/TolXmlMapping.java
+END
+TolXmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/106/forester/java/src/org/forester/io/parsers/tol/TolXmlHandler.java
+END

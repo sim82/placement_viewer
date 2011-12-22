@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/106/forester/java/src/org/forester/evoinference/matrix/character
+END
+CharacterStateMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/106/forester/java/src/org/forester/evoinference/matrix/character/CharacterStateMatrix.java
+END
+DiscreteState.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/106/forester/java/src/org/forester/evoinference/matrix/character/DiscreteState.java
+END
+BasicCharacterStateMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/106/forester/java/src/org/forester/evoinference/matrix/character/BasicCharacterStateMatrix.java
+END

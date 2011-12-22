@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/106/forester/java/src/org/forester/evoinference/parsimony
+END
+FitchParsimony.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/106/forester/java/src/org/forester/evoinference/parsimony/FitchParsimony.java
+END
+SankoffParsimony.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/106/forester/java/src/org/forester/evoinference/parsimony/SankoffParsimony.java
+END
+DolloParsimony.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/106/forester/java/src/org/forester/evoinference/parsimony/DolloParsimony.java
+END

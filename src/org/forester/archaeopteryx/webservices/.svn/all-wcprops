@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/279/forester/java/src/org/forester/archaeopteryx/webservices
+END
+PhylogeniesWebserviceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/279/forester/java/src/org/forester/archaeopteryx/webservices/PhylogeniesWebserviceClient.java
+END
+BasicPhylogeniesWebserviceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/279/forester/java/src/org/forester/archaeopteryx/webservices/BasicPhylogeniesWebserviceClient.java
+END
+WebservicesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/106/forester/java/src/org/forester/archaeopteryx/webservices/WebservicesManager.java
+END
+WebserviceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/279/forester/java/src/org/forester/archaeopteryx/webservices/WebserviceUtil.java
+END
